@@ -10,7 +10,7 @@ from datetime import datetime
 USER_INFO = {
     "name": "Prabhdeep kaur",
     "age": None,
-    "profession": 'student bca 2nd year",
+    "profession": "student bca 2nd year",
     "location": "Punjab, India",
     "education": "12th pass",
     "interests": [
